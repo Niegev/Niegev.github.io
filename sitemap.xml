@@ -30,16 +30,4 @@
       <image:loc>http://Niegev.ru/images/picto-phone.png</image:loc>
     </image:image>
   </url>
-  <url>
-    <loc>http://Niegev.ru/%D1%81%D0%BF%D0%B0%D1%81%D0%B8%D0%B1%D0%BE-%D0%B7%D0%B0-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7.html</loc>
-    <lastmod>2018-08-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://Niegev.ru/images/logotip.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Niegev.ru/images/picto-phone.png</image:loc>
-    </image:image>
-  </url>
 </urlset>
