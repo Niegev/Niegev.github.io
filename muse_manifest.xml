@@ -1,8 +1,7 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Niegev.github.oi" resolutions="1x" timestamp="1534115914375">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Niegev.ru" resolutions="1x" timestamp="1534117037974">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="504355377" ref="index"/>
-    <file name="iefonts_index.css" crc="132498269" ref="index"/>
+    <file name="index.css" crc="4255692095" ref="index"/>
     <file name="_______-__-_____.css" crc="4278237307" ref="спасибо-за-заказ"/>
   </folder>
   <folder name="scripts">
@@ -11,11 +10,6 @@
     <file name="whatinput.js" crc="86476730" ref="index:спасибо-за-заказ"/>
     <file name="museconfig.js" crc="144853533" ref="index:спасибо-за-заказ"/>
     <file name="jquery.watch.js" crc="4240030481" ref="index:спасибо-за-заказ"/>
-    <file name="webpro.js" crc="416662029" ref="index"/>
-    <file name="form_check.php" crc="4110044762" ref="index"/>
-    <file name="form_throttle.php" crc="22190333" ref="index"/>
-    <file name="form_process.php" crc="257545537" ref="index"/>
-    <file name="form-u843.php" crc="194434155" ref="index"/>
     <file name="require.js" crc="3861931657" ref="index:спасибо-за-заказ"/>
   </folder>
   <folder name="images">
@@ -24,6 +18,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="спасибо-за-заказ" alt=""/>
+    </file>
+    <file name="nie.png" crc="4001804690" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
     <file name="depositphotos_138324-crop-u366.png" crc="240647931" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -48,10 +45,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="спасибо-за-заказ" alt=""/>
     </file>
-    <file name="nie.png" crc="4001804690" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="4273627912" seo="true" mt="1534113197878" redirect="true"/>
+  <file name="index.html" crc="17892539" seo="true" mt="1534116756610" redirect="true"/>
   <file name="спасибо-за-заказ.html" crc="472657171" seo="true" mt="1534113222134" redirect="true"/>
 </manifest>
