@@ -1,29 +1,21 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Niegev.github.oi" resolutions="1x" timestamp="1534115914375">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Niegev.ru" resolutions="1x" timestamp="1534117797892">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="504355377" ref="index"/>
-    <file name="iefonts_index.css" crc="132498269" ref="index"/>
-    <file name="_______-__-_____.css" crc="4278237307" ref="спасибо-за-заказ"/>
+    <file name="index.css" crc="331829337" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:спасибо-за-заказ"/>
-    <file name="museutils.js" crc="17924269" ref="index:спасибо-за-заказ"/>
-    <file name="whatinput.js" crc="86476730" ref="index:спасибо-за-заказ"/>
-    <file name="museconfig.js" crc="144853533" ref="index:спасибо-за-заказ"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="index:спасибо-за-заказ"/>
-    <file name="webpro.js" crc="416662029" ref="index"/>
-    <file name="form_check.php" crc="4110044762" ref="index"/>
-    <file name="form_throttle.php" crc="22190333" ref="index"/>
-    <file name="form_process.php" crc="257545537" ref="index"/>
-    <file name="form-u843.php" crc="194434155" ref="index"/>
-    <file name="require.js" crc="3861931657" ref="index:спасибо-за-заказ"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="144853533" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
   </folder>
   <folder name="images">
     <file name="создание-сайта-на-заказ-favicon.ico" crc="4253113679" ref="index"/>
-    <file name="background-site.jpg" crc="413009474" ref="index:спасибо-за-заказ">
+    <file name="background-site.jpg" crc="413009474" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="спасибо-за-заказ" alt=""/>
     </file>
     <file name="depositphotos_138324-crop-u366.png" crc="240647931" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -40,18 +32,15 @@
     <file name="servers-vector-transp-bg.png" crc="4049985252" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logotip.jpg" crc="3990742048" seo="true" ref="index:спасибо-за-заказ">
+    <file name="logotip.jpg" crc="3990742048" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="спасибо-за-заказ" alt=""/>
     </file>
-    <file name="picto-phone.png" crc="406270883" seo="true" ref="index:спасибо-за-заказ">
+    <file name="picto-phone.png" crc="406270883" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="спасибо-за-заказ" alt=""/>
     </file>
     <file name="nie.png" crc="4001804690" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4273627912" seo="true" mt="1534113197878" redirect="true"/>
-  <file name="спасибо-за-заказ.html" crc="472657171" seo="true" mt="1534113222134" redirect="true"/>
+  <file name="index.html" crc="338800046" seo="true" mt="1534117607819" redirect="true"/>
 </manifest>
