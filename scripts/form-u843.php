@@ -11,7 +11,7 @@ require_once('form_process.php');
 $form = array(
 	'subject' => 'Отправка Форма Создание сайта на заказ',
 	'heading' => 'Отправка новой формы',
-	'success_redirect' => '%d1%81%d0%bf%d0%b0%d1%81%d0%b8%d0%b1%d0%be-%d0%b7%d0%b0-%d0%b7%d0%b0%d0%ba%d0%b0%d0%b7.html',
+	'success_redirect' => '',
 	'resources' => array(
 		'checkbox_checked' => 'Отмечено',
 		'checkbox_unchecked' => 'Флажок не установлен',

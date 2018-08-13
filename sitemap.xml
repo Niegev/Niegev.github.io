@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://Niegev.ru/index.html</loc>
+    <loc>http://niegev.com/index.html</loc>
     <lastmod>2018-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://Niegev.ru/images/depositphotos_138324-crop-u366.png</image:loc>
+      <image:loc>http://niegev.com/images/depositphotos_138324-crop-u366.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Niegev.ru/images/1_i-w3grd_ddu-cekfjgscdg-crop-u476.jpg</image:loc>
+      <image:loc>http://niegev.com/images/1_i-w3grd_ddu-cekfjgscdg-crop-u476.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Niegev.ru/images/soho_mood_mac.png</image:loc>
+      <image:loc>http://niegev.com/images/soho_mood_mac.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Niegev.ru/images/error-and-problems.png</image:loc>
+      <image:loc>http://niegev.com/images/error-and-problems.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Niegev.ru/images/servers-vector-transp-bg.png</image:loc>
+      <image:loc>http://niegev.com/images/servers-vector-transp-bg.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Niegev.ru/images/logotip.jpg</image:loc>
+      <image:loc>http://niegev.com/images/logotip.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Niegev.ru/images/nie.png</image:loc>
+      <image:loc>http://niegev.com/images/picto-phone.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Niegev.ru/images/picto-phone.png</image:loc>
+      <image:loc>http://niegev.com/images/nie.png</image:loc>
     </image:image>
   </url>
 </urlset>
