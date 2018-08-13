@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Niegev.ru" resolutions="1x" timestamp="1534165012986">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Niegev.ru" resolutions="1x" timestamp="1534165741862">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="533325352" ref="index"/>
@@ -44,5 +44,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4271326898" seo="true" mt="1534164992885" redirect="true"/>
+  <file name="index.html" crc="204350395" seo="true" mt="1534165719351" redirect="true"/>
 </manifest>
