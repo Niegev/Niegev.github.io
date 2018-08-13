@@ -1,8 +1,7 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="niegev.com" resolutions="1x" timestamp="1534161357239">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Niegev.ru" resolutions="1x" timestamp="1534161604166">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4221664442" ref="index"/>
-    <file name="iefonts_index.css" crc="132498269" ref="index"/>
+    <file name="index.css" crc="4150277283" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -10,11 +9,6 @@
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="144853533" ref="index"/>
     <file name="jquery.watch.js" crc="4240030481" ref="index"/>
-    <file name="webpro.js" crc="416662029" ref="index"/>
-    <file name="form_check.php" crc="4110044762" ref="index"/>
-    <file name="form_throttle.php" crc="22190333" ref="index"/>
-    <file name="form_process.php" crc="257545537" ref="index"/>
-    <file name="form-u843.php" crc="58885780" ref="index"/>
     <file name="require.js" crc="3861931657" ref="index"/>
   </folder>
   <folder name="images">
@@ -23,7 +17,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="depositphotos_138324-crop-u366.png" crc="4009292719" seo="true" ref="index">
+    <file name="depositphotos_138324-crop-u366.png" crc="240647931" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="1_i-w3grd_ddu-cekfjgscdg-crop-u476.jpg" crc="2070616" seo="true" ref="index">
@@ -41,12 +35,12 @@
     <file name="logotip.jpg" crc="3990742048" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="picto-phone.png" crc="406270883" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="nie.png" crc="4001804690" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="picto-phone.png" crc="406270883" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="45700824" seo="true" mt="1534161305665" redirect="true"/>
+  <file name="index.html" crc="208702515" seo="true" mt="1534120679955" redirect="true"/>
 </manifest>
